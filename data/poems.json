@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Мастер и Маргарита",
+    "author": {
+      "name": "Михаил Булгаков",
+      "photo": "http://ermistage.ru/wp-content/uploads/2016/08/Bulgakov.jpg",
+      "birthDate": "03.05.1891",
+      "deathDate": "10.03.1940"
+    },
+    "date": "1937"
+  },
+  {
+    "name": "Евгений Онегин",
+    "author": {
+      "name": "Александр Пушкин",
+      "photo": "http://pushkin.ellink.ru/2018/pushkin/images/thumbnails/pushkins.jpg",
+      "birthDate": "26.05.1799",
+      "deathDate": "29.01.1837"
+    },
+    "date": "1831"
+  },
+  {
+    "name": "Преступление и наказание",
+    "author": {
+      "name": "Фёдор Достоевский",
+      "photo": "https://www.culture.ru/s/vopros/el-dostoevskiy/images/tild3262-3830-4663-b635-633665363636___.png",
+      "birthDate": "30.10.1821",
+      "deathDate": "28.01.1881"
+    },
+    "date": "1866"
+  }
+]
