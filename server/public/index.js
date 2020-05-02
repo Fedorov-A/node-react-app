@@ -1,7 +1,7 @@
 'use-strict';
 
 const config = require('config');
-const app = require('./server/app');
+const app = require('../src/app');
 
 const PORT = config.get('port');
 
