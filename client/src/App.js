@@ -74,7 +74,7 @@ class Poems extends React.Component {
 class AuthorInfo extends React.Component {
   render() {
     return <>
-      <Card style={{ width: 240 }} cover={<img src={this.props.location.state.photo}></img>}>
+      <Card style={{ width: 240 }} cover={<img src={this.props.location.state.photo} alt={this.props.location.state.name}></img>}>
         <Card.Meta title={`${this.props.location.state.birthDate} - ${this.props.location.state.deathDate}`} />
       </Card>
       <Button className="Margin">
