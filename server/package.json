@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/Fedorov-A/node-react-app#readme",
   "dependencies": {
-    "antd": "^4.2.0",
     "config": "^3.3.1",
     "cors": "^2.8.5",
     "express": "^4.17.1"
